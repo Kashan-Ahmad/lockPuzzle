@@ -44,9 +44,10 @@ A fully custom retro-style game developed in low-level C and assembly, designed 
 You can test and play the game without hardware by running  `main.c` on [**CPulator**](https://cpulator.01xz.net/?sys=rv32-de1soc), an online MIPS CPU simulator that supports memory-mapped I/O.
 
 1. Go to **https://cpulator.01xz.net/?sys=rv32-de1soc**
-2. Select **Load Program** and upload `main.c`
-3. Follow on-screen instructions to compile and run
-
+2. Select **File** -> **Open...** and upload `main.c`
+3. Change the language to **C**
+4. Click **Compile & Load**
+5. Press **Continue** to start the game
 ---
 
 ## 📚 Learning Outcomes
